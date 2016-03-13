@@ -14,7 +14,7 @@ git commit
 ```
 basta
 This site was built using [GitHub Pages](https://pages.github.com/).
--lovely
--today
--is
--sunny
+- lovely
+- today
+- is
+- sunny
